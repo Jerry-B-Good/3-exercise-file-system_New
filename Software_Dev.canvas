@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"22P7Q81H4-FGNRCR-8G","type":"text","text":"Dan Collins","x":369,"y":140,"width":131,"height":50},
+		{"id":"22P7QCR4R-2CZRK2P-D8","type":"text","text":"Lawrence Caudle","x":-100,"y":140,"width":178,"height":50},
+		{"id":"22P7RFS9H-BHPY3L-290","type":"text","text":"presides over","x":365,"y":260,"width":140,"height":50},
+		{"id":"22P7QFG0C-1H5R9M6-F7","type":"text","text":"The Last Cohort of Code:U Software Development","x":276,"y":420,"width":318,"height":28},
+		{"id":"22P7R367W-22HTV2K-1QF","type":"text","text":"David Merk","x":780,"y":140,"width":133,"height":50},
+		{"id":"22P7RCSKH-2B5ZSCC-270","type":"text","text":"assists","x":594,"y":140,"width":90,"height":50},
+		{"id":"22P7RDNDP-1S3PQNV-280","type":"text","text":"assists","x":176,"y":140,"width":100,"height":50}
+	],
+	"edges":[
+		{"id":"edge_1","fromNode":"22P7RCSKH-2B5ZSCC-270","fromSide":"left","toNode":"22P7Q81H4-FGNRCR-8G","toSide":"right"},
+		{"id":"edge_3","fromNode":"22P7QCR4R-2CZRK2P-D8","fromSide":"right","toNode":"22P7RDNDP-1S3PQNV-280","toSide":"left"},
+		{"id":"edge_5","fromNode":"22P7RDNDP-1S3PQNV-280","fromSide":"right","toNode":"22P7Q81H4-FGNRCR-8G","toSide":"left"},
+		{"id":"edge_4","fromNode":"22P7Q81H4-FGNRCR-8G","fromSide":"bottom","toNode":"22P7RFS9H-BHPY3L-290","toSide":"top"},
+		{"id":"edge_6","fromNode":"22P7RFS9H-BHPY3L-290","fromSide":"bottom","toNode":"22P7QFG0C-1H5R9M6-F7","toSide":"top"},
+		{"id":"edge_2","fromNode":"22P7R367W-22HTV2K-1QF","fromSide":"left","toNode":"22P7RCSKH-2B5ZSCC-270","toSide":"right"}
+	]
+}
