@@ -10,8 +10,8 @@ class Program
 {
     static void Main()
     {
-        // Graphical data JSON file string
-        string structDat = @"D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\3-exercise-file-system_New\Software_Dev.json";
+        // Graphical data JSON file string, in path set to the same directory as the executable
+        string structDat = "Software_Dev.json";
 
         if (!File.Exists(structDat))
         {
