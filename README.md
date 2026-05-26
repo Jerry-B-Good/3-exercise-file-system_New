@@ -1,2 +1,2 @@
 # 3-exercise-file-system_New
-one more try
+The author of this application urges everyone who runs it to obtain the VS Code Extension, [Charkoal](https://marketplace.visualstudio.com/items?itemName=Charkoal.charkoal), for a visual representation of the labels generated. The extension is a graphical editor of the property graph (PG) format, JSON Canvas, that runs inside the IDE. Included is a Portable Network Graphics image export of the .canvas file synthesized by PG creation with the feature-rich [Obsidian](https://obsidian.md) Markdown note-taking app. The .canvas file is included as well for display and editing in Charkoal. The source of the plain JSON file in the auhtor's console application is also an export of the JSON Canvas PG.
