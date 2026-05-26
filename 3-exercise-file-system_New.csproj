@@ -8,8 +8,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="Software_Dev.png" />
-  </ItemGroup>
-
 </Project>
